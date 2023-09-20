@@ -1,13 +1,13 @@
-*Writeup for: TryHackMe 0x41haz
+# Writeup for: TryHackMe 0x41haz
 
-*Difficulty: Easy
+# Difficulty: Easy
 
-*Cathegory: Reverse-Engeneering
+# Cathegory: Reverse-Engeneering
 
-*File Attached: 0x41haz.0x41haz
+# File Attached: 0x41haz.0x41haz
 
 
-**Step 1 => We start with Unix:
+## Step 1 => We start with Unix:
 
 file 0x41haz.0x41haz
 
@@ -18,15 +18,14 @@ Which Gives us:
 
 This is an so called "Elf" File. Elf stands for Executable and Linkable Format and is an standart Binary File for Most Unix Systems.
 
-
-**Step 2 => Execution
+## Step 2 => Execution
 
 chmod +x 0x41haz.0x41haz
 ./0x41haz.0x41haz
 
 This lets us Execute the File, But it wants a Password
 
-**Step 3: Analysing
+## Step 3: Analysing
 
 The 
 >> MSB *unknown arch 0x3e00* << 
