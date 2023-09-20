@@ -1,10 +1,10 @@
 # Writeup for: TryHackMe 0x41haz
 
-# Difficulty: Easy
+Difficulty: Easy
 
-# Cathegory: Reverse-Engeneering
+Cathegory: Reverse-Engeneering
 
-# File Attached: 0x41haz.0x41haz
+File Attached: 0x41haz.0x41haz
 
 
 ## Step 1 => We start with Unix:
