@@ -7,6 +7,10 @@ Cathegory: Reverse-Engeneering
 File Attached: 0x41haz.0x41haz
 
 
+
+
+
+
 ## Step 1 => We start with Unix:
 
 file 0x41haz.0x41haz
@@ -81,6 +85,13 @@ but THIS time:
 
 Well this IS some more info
 
+
+
+
+
+
+# Way 1: Doing it With Ghidra:
+
 Lets fire up Ghidra and open The Programm in it.
 
 In Normaly Case we look for a Main function first.
@@ -149,4 +160,33 @@ There also is another way in using Radare2 But I will keep that for another day.
 
 
 
+# Way 2: Doing it With Radare2
 
+
+First we open the file with R2
+
+In case you havent Radare2 installed:
+
+sudo apt install radare2
+
+Open The Program with radare2
+
+r2 -d 0x41haz.0x41haz
+
+Next we list all the Functions of the Program:
+
+afl
+
+Next we print out the Main Function of the Program
+
+pdf @main
+
+Now We look at some Fancy Colors! :)
+
+What We Need are:
+
+local_1e
+local_16
+local_12
+
+They are clearly visible here and the red Text after them are the 3 Parts of the Flag
