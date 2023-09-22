@@ -18,7 +18,7 @@ ThM (TryHackMe)
 
 | Room		      | Writeup       | Website		  |
 | --------------- | ------------- | ------------- |
-| `` | []()  | TryHackMe  |
+| `Basic Pentesting` | [Basic-Pentesting](https://github.com/Sn0wF0x/CTF_Writeups/tree/main/TryHackMe/Easy/Basic%20Pentesting)  | TryHackMe  |
 | `` | []()  | TryHackMe  |
 | `` | []()  | TryHackMe  |
 | `` | []()  | TryHackMe  |
