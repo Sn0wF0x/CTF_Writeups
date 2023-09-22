@@ -8,10 +8,10 @@ DBH (Deutschlands Bester Hacker)
 
 | Room		      | Writeup       | Website		  |
 | --------------- | ------------- | ------------- |
-| `Montys-Tresor` | [Montys-Tresor]()  | DBHEvent.org  |
-| `KeePass		` | [KeePass]()  | DBHEvent.org  |
-| `Fotoshop		` | [Fotoshop]()  | DBHEvent.org  |
-| `Icar		` | [Icar]()  | DBHEvent.org  |
+| `Montys-Tresor` | [Montys-Tresor](https://github.com/Sn0wF0x/CTF_Writeups/tree/main/DBH_2023/DBH-2023-Writeup-montys_tresor-by-Sn0wF0x)  | DBHEvent.org  |
+| `KeePass		` | [KeePass](https://github.com/Sn0wF0x/CTF_Writeups/tree/main/DBH_2023/DBH-2023-Writeup-keepass-by-Sn0wF0x)  | DBHEvent.org  |
+| `Fotoshop		` | [Fotoshop](https://github.com/Sn0wF0x/CTF_Writeups/tree/main/DBH_2023/DBH-2023-Writeup-Fotoshop)  | DBHEvent.org  |
+| `Icar		` | [Icar](https://github.com/Sn0wF0x/CTF_Writeups/tree/main/DBH_2023/DBH-2023-Writeup-Icar-by-Sn0wF0x)  | DBHEvent.org  |
 
 
 ThM (TryHackMe)
