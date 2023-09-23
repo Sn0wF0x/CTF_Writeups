@@ -20,7 +20,9 @@ You will find "Eicar.org" with an Anti Malware Test File. The Description of the
 
 Believe it or not but you are Supposed to Download the Test File I just mentioned and Exectute it on a System
 
-The Twist is, that Your Computer Name has to be DBHLabs
+The Twist is, that Your Computer Name has to be DBHLabs.
+
+The Antivirus Protection has to be turned of (ironically)
 
 
-I dont know wha ecactly this is supposted to show but that it
+I dont know what ecactly this is supposted to show but that it
